@@ -42,12 +42,6 @@ Welcome to my GitHub profile! I’m an aspiring IT professional passionate about
 
 ---
 
-## 🏆 GitHub Stats
-
-![Vinuja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vnuja&show_icons=true&theme=radical)
-
----
-
 *Feel free to explore my repositories, and don’t hesitate to reach out if you’d like to collaborate or chat about tech!*
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vnuja&label=Profile%20views&color=0e75b6&style=flat" alt="vnuja" /> </p>
