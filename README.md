@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I’m an aspiring IT professional passionate about
 
 - **Sri Lanka Institute of Information Technology (SLIIT)** – BSc in Information Technology (Undergraduate)  
 - **University of Colombo** – Diploma in English and IT  
-- **Mahinda Rajapaksha College, Colombo** – High School  
+- **Mahinda Rajapaksha College, Homagama** – High School  
 
 ---
 
