@@ -18,22 +18,6 @@ Welcome to my GitHub profile! I’m an aspiring IT professional passionate about
 - **Other Skills:** IoT, Automation, Web Design, Web Development
 
 ---
-
-## 🚀 Current Projects
-
-Here are some of the projects I’m working on:  
-
-### 1. **Smart Home Automation**  
-A system to control your home remotely with real-time updates and automation.  
-
-### 2. **Smart Vehicle Project**  
-An IoT-driven vehicle system to enhance driving experience through automation.  
-
-### 3. **Jewellery Showcase Website**  
-A modern web app to display beautiful jewellery designs with interactive features and a smooth user experience.
-
----
-
 ## 🎯 What I’m Working On
 
 - Improving my React.js and Node.js skills by building full-stack applications.
@@ -47,14 +31,6 @@ A modern web app to display beautiful jewellery designs with interactive feature
 - **Sri Lanka Institute of Information Technology (SLIIT)** – BSc in Information Technology (Undergraduate)  
 - **University of Colombo** – Diploma in English and IT  
 - **Mahinda Rajapaksha College, Colombo** – High School  
-
----
-
-## 💬 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/vnuja/)  
-- [Twitter](https://twitter.com/v.nuja)  
-- [Personal Website](https://vnuja.github.io/Vinuja-Ransith/)  
 
 ---
 
@@ -73,9 +49,6 @@ A modern web app to display beautiful jewellery designs with interactive feature
 ---
 
 *Feel free to explore my repositories, and don’t hesitate to reach out if you’d like to collaborate or chat about tech!*
-
-<h1 align="center">Hi 👋, I'm Vinuja Ransith</h1>
-<h3 align="center">I'm an IT person!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vnuja&label=Profile%20views&color=0e75b6&style=flat" alt="vnuja" /> </p>
 
