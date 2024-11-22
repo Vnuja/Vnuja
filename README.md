@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I’m an aspiring IT professional passionate about
 ## 🔧 Technologies & Skills  
 
 - **Languages:** JavaScript, Python, HTML, CSS  
-- **Frontend:** React.js, HTML, CSS  
-- **Backend:** Node.js, Express.js  
+- **Frontend:** React.js, Material-UI, TypeScript, HTML, CSS  
+- **Backend:** Node.js, Express.js, PHP, JAVA  
 - **Database:** MongoDB, SQL, SQLite  
 - **Version Control:** Git, GitHub  
 - **Other Skills:** IoT, Automation, Web Design, Web Development
