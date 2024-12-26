@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I’m an aspiring IT professional passionate about
 - **Backend:** Node.js, Express.js, PHP, JAVA  
 - **Database:** MongoDB, SQL, SQLite  
 - **Version Control:** Git, GitHub  
-- **Other Skills:** IoT, Automation, Web Design, Web Development
+- **Other Skills:** IoT, Automation, Photoshop, Premier Pro
 
 ---
 ## 🎯 What I’m Working On
