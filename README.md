@@ -1,5 +1,6 @@
 ---
 
+
 # 👋 Hi, I'm **N P Vinuja Ransith**!
 
 Welcome to my GitHub profile! I’m an aspiring IT professional passionate about technology, automation, and web development. Currently pursuing a degree in Information Technology at the Sri Lanka Institute of Information Technology (SLIIT) and a diploma in English and IT from the University of Colombo.
