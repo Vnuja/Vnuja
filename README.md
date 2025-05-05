@@ -42,6 +42,10 @@ Welcome to my GitHub profile! I’m an aspiring IT professional passionate about
 - My ultimate goal is to make a positive impact through technology and automation.
 
 ---
+<h3 align="center">Support:</h3>
+<p align="center"><a href="https://www.buymeacoffee.com/vnuja"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" height="50" width="210" alt="scar2001" /></a></p>
+
+---
 
 *Feel free to explore my repositories, and don’t hesitate to reach out if you’d like to collaborate or chat about tech!*
 
